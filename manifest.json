@@ -1,0 +1,8 @@
+{
+  "short_name": "Iベンダー",
+  "name": "Iベンダー 介護マニュアル",
+  "start_url": "./index.html",
+  "background_color": "#f0f2f5",
+  "theme_color": "#1a73e8",
+  "display": "standalone"
+}
